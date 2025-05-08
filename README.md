@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @badbunny404
+- 👋 Hi, I’m @alone
 - 👀 I’m interested in coding </>
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 badbunny404/badbunny404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
